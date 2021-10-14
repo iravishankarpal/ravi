@@ -1,10 +1,11 @@
 import React from "react";
+import './App.css'
 
 function Project() {
   return (
     <div className="projects">
 
-      <div className="container">
+      <div className="container-fluid ">
           <div className="col">
               <div className="title">
               Presonal projects

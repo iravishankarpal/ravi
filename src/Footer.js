@@ -12,7 +12,7 @@ function Footer() {
   return (<>
   
 
-  <div className="footer-dark shapedividers_com-5384">
+  <div className="footer-dark ">
         <footer>
             <div className="container">
                 <div className="row">
